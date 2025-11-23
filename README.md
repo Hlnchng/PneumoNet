@@ -1,5 +1,4 @@
 # PneumoNet
-
 Pneumonia image classification using CNN for educational purposes.
 
 ### 0.1.0 - `vanilla_cnn`
